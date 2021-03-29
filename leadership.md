@@ -21,9 +21,15 @@ Chapter Leadership
 The chapter board is as follows:
 
 <table cellpadding="5" cellspacing="0" border="1">
-    <tr><td>Chapter Board Members</td>
-      <td>Chapter members who contribute to the Chapter’s success.</td>
-      <td>Jim Weiler<br/>LindaLeigh Aberdale<br/>Mark Arnold<br/>Tom Conner<br/>Mike Perez<br/>Pedro Marcano<br/>Mark Schlepphorst<br/>Roy Wattanasin<br/>Ori Zigindere</td></tr>
+    <tr>
+        <td>Chapter Board Members</td>
+        <td rowspan="2">Chapter members who contribute to the Chapter’s success.</td>
+        <td>Mark Arnold<br/>Tom Conner<br/>Mike Perez<br/>Jeremiah Salaman<br/>Roy Wattanasin</td>
+    </tr>
+    <tr>
+        <td>Former President and Founder</td>
+        <td>Jim Weiler</td>
+    </tr>
 </table>
 
 <hr/>
